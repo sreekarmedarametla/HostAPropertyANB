@@ -1,0 +1,133 @@
+<html>
+
+	<head>
+		<title>Admin</title>
+		
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+			
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			
+			<link rel='stylesheet' href='/stylesheets/hr.css' />
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+			<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+			<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+			
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>				
+		
+		
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/bootstrap/3/css/bootstrap.css" />
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
+		<link rel="shortcut icon" sizes="76x76" type="image/x-icon" href="https://a1.muscache.com/airbnb/static/logotype_favicon-21cc8e6c6a2cca43f061d2dcabdf6e58.ico">
+		<link rel="icon" sizes="192x192" href="https://a1.muscache.com/airbnb/static/icons/android-icon-192x192-c0465f9f0380893768972a31a614b670.png">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="angularjs/admin.js"></script>
+		<script src="angularjs/dashboardController.js"></script>
+	<style>
+		.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	z-index: 300;
+	background-color: white;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: #3e8e41;
+}
+		</style>	
+	</head>
+	
+	<body ng-app="airbnb" ng-controller="dashboardController">
+	
+		<div style="z-index: 99; display: block;">
+		<nav class="navbar navbar-default "
+			style="background-color: transparent; background: transparent; border-color: transparent;">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="/home" style="border-right: 1px solid #dce0e0;"> <img src="https://a1.muscache.com/airbnb/static/icons/android-icon-192x192-c0465f9f0380893768972a31a614b670.png" alt="some_text" style="height: 30px; font-weight: normal; font-size: inherit; background-color: transparent; color: inherit; top: -2px; font-family:"HelveticaNeue";font-size: 14px; padding: 4px 12px;"></a>
+				</div>
+				<ul class="nav navbar-nav pull-right" style="font-family: Circular,"HelveticaNeue",Helvetica; top: -2px;font-size: 14px;padding: 4px 12px;"-webkit-font-smoothing:antialiased;">
+					<li class="dropdown"><a href="/adminHome"> <img width="28"
+							height="28" class="img-circle dropbtn" ng-src="{{imageUrl}}"
+							style="border-color: #c4c4c4; border: 2px solid #c4c4c4;">
+					</a>
+
+						<div class="dropdown-content">
+							<label> <a href="/logout">Logout</a>
+							</label>
+						</div></li>
+				</ul>
+			</div>
+		</nav>
+	</div>   
+		
+		
+		
+		<div>		
+			<nav class="navbar navbar-inverse">
+				<div class="container-fluid">
+					<ul class="nav navbar-nav">
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+		<li><a href="getAdminDashboard">Dashboard</a></li>
+						<li><a href="#">Inbox</a></li>
+						<li class="active"><a href="/pendingRequest">Pending Requests</a></li>
+						<li><a href="/displayHostsList">Hosts</a></li>
+						<li><a href="/displayUsersList">Users</a></li>
+						<li><a href="/displayPropertiesList">Properties</a></li>
+						<li><a href="/searchBill">Bills</a></li>
+					</ul>
+
+				</div>
+			</nav>
+ 		</div>
+
+	<div class="container" style="height: 450px; width: 750px;">
+	<h3> Pending Host Approval </h3>
+<% if(pendingRequests.length>0){for(var i = 0; i < pendingRequests.length ; i++){ %><hr><b>
+<%= pendingRequests[i].fname %> <%= pendingRequests[i].lname %> </b> <br/>
+<a href= /viewuser/<%=pendingRequests[i].user_id%>><%= user_ssn[i]%></a><br> 
+<button class="button btn-success" ng-click="approveHost('<%=pendingRequests[i].user_id %>');">Approve</button> &nbsp;
+<button class="button btn-danger" ng-click="rejectHost('<%=pendingRequests[i].user_id %>');">Reject</button>
+<%}}else{ %>
+<br><br><h1 align="center"> No Pending Host Requests</h1>
+<% } %>
+<hr>
+
+	</div>
+</body>
+</html>

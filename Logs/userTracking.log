@@ -1,0 +1,636 @@
+{"userid":123456789,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T03:08:52.222Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:08:52.266Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:09:05.398Z"}
+{"userid":123456789,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T03:09:09.269Z"}
+{"userid":123456789,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-28T03:09:11.845Z"}
+{"userid":123456789,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T03:09:14.889Z"}
+{"userid":123456789,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T03:09:16.231Z"}
+{"userid":123456789,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T03:09:22.433Z"}
+{"userid":123456789,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T03:09:24.359Z"}
+{"userid":123456789,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T03:09:32.121Z"}
+{"userid":123456789,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T03:10:32.583Z"}
+{"userid":123456789,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T03:10:42.843Z"}
+{"userid":123456789,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-28T03:10:58.898Z"}
+{"userid":123456789,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T03:11:14.044Z"}
+{"userid":123456789,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T03:12:42.571Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:12:45.745Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T03:13:18.738Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T03:13:30.934Z"}
+{"userid":123456789,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T03:31:03.566Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:31:03.610Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T03:32:17.107Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T03:32:33.601Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:32:43.489Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:33:07.019Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:33:36.082Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T03:34:00.333Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T03:34:24.209Z"}
+{"userid":123456789,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T04:05:34.869Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T04:05:51.640Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T04:05:59.102Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T04:10:59.033Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T04:11:01.074Z"}
+{"userid":123456789,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T04:11:03.209Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T04:11:18.232Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T04:11:18.260Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T04:11:23.000Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T04:43:22.759Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T04:43:22.800Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T04:43:28.737Z"}
+{"userid":123456796,"level":"info","message":"user updated his photo","timestamp":"2016-11-28T04:43:37.886Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T04:43:44.665Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T04:43:56.379Z"}
+{"userid":123456796,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-28T04:43:59.950Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T04:44:01.407Z"}
+{"userid":123456796,"level":"info","message":"user updated his password","timestamp":"2016-11-28T04:44:11.885Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T04:44:58.065Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T04:46:18.058Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T04:46:18.104Z"}
+{"level":"info","message":"landed on homepage","timestamp":"2016-11-28T04:46:54.871Z"}
+{"level":"info","message":"landed on homepage","timestamp":"2016-11-28T04:46:58.197Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T04:47:12.581Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T04:47:12.622Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-28T04:47:15.186Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T05:41:56.408Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:41:56.450Z"}
+{"userid":123456796,"level":"info","message":"user requested to becomehost ","timestamp":"2016-11-28T05:41:58.890Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:41:58.917Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:42:43.851Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T05:43:10.076Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T05:44:13.097Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:44:13.123Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:46:00.706Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:47:56.527Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:48:39.685Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T05:55:16.013Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T05:56:13.407Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T06:08:16.644Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T06:08:18.167Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T06:08:20.566Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T06:09:40.328Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T06:10:45.320Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T06:11:38.342Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T06:12:11.789Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T06:12:14.176Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T06:15:36.965Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T06:15:36.991Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T06:39:43.947Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T06:39:43.986Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-28T06:40:08.337Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T08:01:26.930Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T08:01:26.980Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T16:34:43.798Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-28T16:34:53.661Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-11-28T16:34:55.424Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T16:35:27.926Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T16:35:27.958Z"}
+{"userid":123456806,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T18:59:31.421Z"}
+{"userid":123456806,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T18:59:37.558Z"}
+{"userid":123456806,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T18:59:40.608Z"}
+{"userid":123456806,"level":"info","message":"user signed out of application","timestamp":"2016-11-28T18:59:42.240Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T19:06:58.009Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T19:06:58.105Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T19:07:44.924Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T19:10:14.085Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T19:10:26.809Z"}
+{"userid":123456796,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-28T19:11:06.963Z"}
+{"userid":123456796,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-28T19:13:55.532Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T19:14:05.188Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T19:19:35.134Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T19:21:44.179Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T19:21:45.369Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-28T19:23:19.725Z"}
+{"userid":123456796,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-28T19:23:25.296Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:23:27.639Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:23:37.722Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:23:41.290Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T19:34:56.980Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:52:13.031Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:52:19.593Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:52:21.429Z"}
+{"userid":123456796,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-28T19:52:24.275Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:52:27.727Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-11-28T19:59:18.730Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:17:45.407Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:18:16.018Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T20:18:33.365Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T20:18:49.888Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:18:56.412Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:21:06.375Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:21:18.193Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:22:39.220Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:22:45.811Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T20:22:59.969Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T20:23:22.312Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T20:23:31.884Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T20:23:36.838Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T20:24:37.327Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-28T20:24:42.401Z"}
+{"userid":123456796,"level":"info","message":"user requested to becomehost ","timestamp":"2016-11-28T22:21:35.377Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T22:21:35.426Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T22:21:38.152Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T22:21:41.287Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-28T22:21:44.014Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T22:22:03.646Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T22:22:03.677Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-28T22:22:26.879Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-11-28T22:22:31.246Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T22:23:02.774Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T22:23:02.810Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T22:32:26.462Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T22:32:26.486Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-28T23:27:35.106Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-28T23:27:37.812Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-28T23:28:06.639Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-28T23:28:06.658Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-29T01:35:37.614Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-29T01:35:37.636Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-29T08:54:18.247Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-29T08:54:18.422Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-29T23:45:46.211Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-29T23:46:22.360Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-11-29T23:46:41.989Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-29T23:46:47.673Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-11-29T23:46:52.672Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-29T23:46:59.028Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-11-29T23:47:06.186Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-29T23:47:09.737Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-30T01:58:55.765Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T01:58:55.834Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-30T06:40:38.249Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T06:40:38.271Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-30T07:28:20.967Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-30T07:29:34.377Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T07:29:34.419Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T07:48:05.407Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-30T07:48:08.562Z"}
+{"userid":123456796,"level":"info","message":"user landed on accounts page","timestamp":"2016-11-30T07:48:10.159Z"}
+{"userid":123456796,"level":"info","message":"user landed on dashboard","timestamp":"2016-11-30T07:48:37.236Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-30T07:49:05.281Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T07:49:07.315Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T07:49:41.695Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-30T07:49:45.373Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-11-30T07:50:19.322Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-11-30T07:52:11.137Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-30T07:52:26.307Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T07:52:26.330Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-30T07:52:51.254Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T07:53:13.429Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-11-30T07:53:15.233Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T07:53:16.521Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T07:54:19.987Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-30T07:55:49.984Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-30T07:56:03.686Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T07:56:03.708Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-11-30T07:56:08.317Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T07:56:12.509Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T07:57:21.290Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-11-30T08:29:16.118Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-11-30T08:29:27.838Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T08:29:27.862Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-30T08:44:26.241Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-11-30T08:44:34.201Z"}
+{"userid":123456796,"level":"info","message":"user updated his photo","timestamp":"2016-11-30T08:44:43.707Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T08:44:56.457Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-11-30T08:44:59.273Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T08:45:11.046Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T09:08:00.781Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-11-30T09:08:09.250Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-11-30T18:28:54.955Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T18:28:56.117Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T18:30:20.331Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T18:31:56.186Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T18:33:03.027Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-11-30T18:33:43.625Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-01T23:04:02.761Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-01T23:04:02.783Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-12-01T23:04:06.583Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T18:28:00.925Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T18:28:03.667Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T18:28:13.234Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T18:29:11.754Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T18:29:51.748Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T18:41:17.022Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T18:41:28.499Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T18:41:29.715Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T18:41:41.192Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T18:42:44.318Z"}
+{"userid":123456796,"level":"info","message":"user landed on profile page","timestamp":"2016-12-05T18:42:48.324Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T18:42:50.005Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-05T19:22:41.787Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T19:22:45.310Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T19:22:45.351Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T19:28:55.678Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T19:28:58.549Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T19:28:58.577Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T19:29:14.687Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T19:29:21.549Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T19:29:21.577Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T19:29:32.907Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T19:34:09.040Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T19:34:09.086Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T19:34:10.620Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T19:34:37.237Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T20:14:17.158Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:14:21.194Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:14:43.793Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:15:05.286Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:16:11.028Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:18:45.350Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:18:56.228Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:19:56.664Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:20:06.859Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:20:08.159Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:21:18.656Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:22:01.867Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:24:08.240Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:24:21.010Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:24:53.350Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:25:04.949Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:26:26.670Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:26:36.758Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:27:37.303Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:27:47.212Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:28:00.319Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:28:40.115Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:29:27.753Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:29:48.883Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:29:58.988Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:31:58.994Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:32:29.958Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:32:59.346Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:33:12.147Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:34:14.857Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:35:16.227Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:35:31.469Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:35:52.066Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:36:29.067Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:36:44.236Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:37:34.719Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:37:57.858Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:38:13.025Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:38:38.180Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:39:06.197Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:39:16.925Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:41:16.932Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:42:31.817Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:43:50.069Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:44:00.208Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:44:15.804Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:44:17.428Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T20:44:18.943Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:04.669Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:18.677Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:38.392Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:38.950Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:39.132Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:39.311Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:39.472Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:45:39.619Z"}
+{"userid":123456796,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T20:47:04.680Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T20:50:21.583Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T20:52:29.759Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T20:53:29.916Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T20:53:42.173Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T20:54:53.759Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T20:59:53.983Z"}
+{"userid":234568062,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:00:32.882Z"}
+{"userid":234568062,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:27:37.600Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:28:12.354Z"}
+{"userid":234568063,"level":"info","message":"user requested to becomehost ","timestamp":"2016-12-05T21:28:18.832Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:28:18.859Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:33:03.062Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:36:39.455Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:36:46.892Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:36:46.921Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:36:51.354Z"}
+{"userid":234568063,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:37:25.492Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:37:25.525Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:38:50.923Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:38:53.369Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:38:53.387Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T21:38:55.701Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T21:39:25.011Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T21:39:32.887Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T21:41:19.245Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:41:38.678Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:42:18.029Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:42:33.988Z"}
+{"userid":234568063,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:42:39.733Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:42:39.760Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:47:25.774Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:47:41.533Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:47:41.558Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:47:44.917Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:48:14.962Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:48:15.398Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:48:21.817Z"}
+{"userid":234568063,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:48:48.420Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:48:48.454Z"}
+{"userid":234568063,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:48:50.627Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:50:11.663Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:50:15.591Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:50:15.617Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:50:17.725Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:50:40.678Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:50:41.060Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:50:43.135Z"}
+{"userid":234568063,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:51:03.262Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:51:03.295Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:51:45.176Z"}
+{"userid":234568063,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:51:49.492Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:51:49.513Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:51:57.771Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:52:01.991Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:52:02.022Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:52:05.433Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:52:30.300Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:52:30.745Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:52:40.821Z"}
+{"userid":234568063,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:52:48.893Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:52:48.917Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:53:43.796Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:53:54.502Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:53:54.530Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:53:59.140Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:54:59.436Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:55:01.051Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T21:55:44.230Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:56:01.953Z"}
+{"userid":234568063,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T21:56:07.996Z"}
+{"userid":234568063,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T21:56:08.020Z"}
+{"userid":234568063,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T21:57:36.653Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-05T22:01:20.300Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T22:24:40.017Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T22:24:40.049Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T22:38:46.921Z"}
+{"userid":100011825,"level":"info","message":"user updated his photo","timestamp":"2016-12-05T23:08:25.336Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:08:25.368Z"}
+{"userid":100011825,"level":"info","message":"user requested to becomehost ","timestamp":"2016-12-05T23:08:36.205Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:08:36.227Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T23:08:42.371Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-05T23:14:50.345Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T23:15:52.050Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:15:52.081Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:18:24.154Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T23:20:47.203Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T23:21:04.954Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:21:04.995Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T23:21:07.655Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T23:22:22.694Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T23:34:01.957Z"}
+{"userid":100000004,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T23:34:33.714Z"}
+{"userid":100000004,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:34:33.748Z"}
+{"userid":100000004,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T23:34:35.437Z"}
+{"userid":100000004,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T23:35:31.597Z"}
+{"userid":100000004,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:35:38.289Z"}
+{"userid":100000004,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:36:11.631Z"}
+{"userid":100000004,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:36:18.936Z"}
+{"userid":100000004,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T23:37:00.890Z"}
+{"userid":100000005,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T23:37:29.745Z"}
+{"userid":100000005,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:37:29.776Z"}
+{"userid":100000005,"level":"info","message":"user requested to becomehost ","timestamp":"2016-12-05T23:37:31.634Z"}
+{"userid":100000005,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:37:31.651Z"}
+{"userid":100000005,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T23:37:36.892Z"}
+{"userid":100000005,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:37:38.112Z"}
+{"userid":100000005,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:38:53.788Z"}
+{"userid":100000005,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:39:29.209Z"}
+{"userid":100000005,"level":"info","message":"landed on bid page","timestamp":"2016-12-05T23:39:44.880Z"}
+{"userid":100000005,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:39:49.825Z"}
+{"userid":100000005,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T23:40:05.600Z"}
+{"userid":100000005,"level":"info","message":"user signed out of application","timestamp":"2016-12-05T23:56:58.868Z"}
+{"userid":123456796,"level":"info","message":"user signed on successfully","timestamp":"2016-12-05T23:57:02.454Z"}
+{"userid":123456796,"level":"info","message":"landed on homepage","timestamp":"2016-12-05T23:57:02.483Z"}
+{"userid":123456796,"level":"info","message":"user landed on search page","timestamp":"2016-12-05T23:57:04.412Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-05T23:57:05.795Z"}
+{"userid":123456796,"level":"info","message":"landed on trip page","timestamp":"2016-12-05T23:57:13.735Z"}
+{"userid":123456796,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T00:03:45.668Z"}
+{"userid":123456796,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:04:00.013Z"}
+{"userid":100000006,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:04:24.084Z"}
+{"userid":100000006,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:04:24.120Z"}
+{"userid":100000006,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T00:04:26.531Z"}
+{"userid":100000006,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T00:04:28.377Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:04:41.184Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:05:13.808Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:17:05.054Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:17:24.618Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:17:25.115Z"}
+{"userid":100000006,"level":"info","message":"user landed on profile page","timestamp":"2016-12-06T00:17:35.925Z"}
+{"userid":100000006,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:17:37.500Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:17:49.282Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:17:49.309Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:17:58.779Z"}
+{"userid":100000006,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:19:08.062Z"}
+{"userid":100000006,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:19:08.090Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:19:10.756Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:19:36.490Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:19:57.118Z"}
+{"userid":100000006,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:20:08.711Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:20:21.972Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:20:21.999Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:20:47.000Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:21:48.138Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:22:04.447Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:22:04.475Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:22:38.195Z"}
+{"userid":100000006,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:22:48.085Z"}
+{"userid":100000006,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:22:48.108Z"}
+{"userid":100000006,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T00:22:49.815Z"}
+{"userid":100000006,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T00:22:51.311Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:23:27.020Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:24:50.233Z"}
+{"userid":100000006,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:25:39.648Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:25:53.039Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:25:53.073Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:26:00.783Z"}
+{"userid":100000006,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:26:06.771Z"}
+{"userid":100000006,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:26:06.812Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:26:25.712Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:26:27.090Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:26:40.780Z"}
+{"userid":100000006,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:26:57.039Z"}
+{"userid":100000006,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:27:00.268Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:27:10.021Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:27:10.052Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:28:27.328Z"}
+{"userid":100011826,"level":"info","message":"user updated his photo","timestamp":"2016-12-06T00:34:03.362Z"}
+{"userid":100011826,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:34:03.373Z"}
+{"userid":100011826,"level":"info","message":"user requested to becomehost ","timestamp":"2016-12-06T00:34:25.526Z"}
+{"userid":100011826,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:34:25.546Z"}
+{"userid":100011826,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:34:28.178Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:41:15.470Z"}
+{"userid":100011826,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:41:26.707Z"}
+{"userid":100011826,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:41:26.741Z"}
+{"userid":100011826,"level":"info","message":"user landed on profile page","timestamp":"2016-12-06T00:42:39.879Z"}
+{"userid":100011826,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T00:43:47.384Z"}
+{"userid":100011826,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:45:58.398Z"}
+{"userid":100011826,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:50:31.784Z"}
+{"userid":100011827,"level":"info","message":"user updated his photo","timestamp":"2016-12-06T00:51:52.202Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:51:52.219Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:51:59.606Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:52:41.776Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:52:41.802Z"}
+{"userid":100011827,"level":"info","message":"user requested to becomehost ","timestamp":"2016-12-06T00:53:10.190Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:53:10.208Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:53:13.964Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T00:53:34.867Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T00:53:49.800Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:53:49.823Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:56:02.958Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:56:12.567Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:57:25.290Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T00:57:35.146Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:00:47.003Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:00:49.191Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:01:03.011Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:04:53.476Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:05:05.284Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:05:05.313Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:05:29.545Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:05:32.371Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:05:40.217Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:05:42.186Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:06:36.239Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:06:37.531Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:06:44.958Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:06:49.925Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:07:05.072Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:07:49.576Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:08:04.761Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:08:10.217Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:09:04.024Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:09:43.928Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:09:50.339Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:10:14.735Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:10:26.443Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:13:17.390Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:13:17.423Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:13:28.884Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:13:30.159Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:13:32.462Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:13:53.345Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:13:53.374Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:14:03.600Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:14:16.146Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:14:20.960Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:14:33.281Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:14:59.310Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:15:02.089Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:15:12.889Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:15:12.919Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:16:58.275Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:17:09.308Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:17:09.340Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:17:12.342Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:17:13.903Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:17:30.532Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:17:33.340Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:19:28.060Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:19:43.619Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:19:44.608Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:20:32.643Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:20:42.347Z"}
+{"userid":100011825,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:20:43.096Z"}
+{"userid":100011825,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:21:36.889Z"}
+{"userid":100011825,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:22:14.632Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:22:21.194Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:22:33.457Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:22:33.488Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:22:37.254Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:28:14.429Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:29:22.616Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:29:46.002Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:29:46.027Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:29:54.981Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:31:45.822Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:32:06.130Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:32:17.517Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:32:27.791Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:32:27.821Z"}
+{"userid":100011825,"level":"info","message":"user landed on profile page","timestamp":"2016-12-06T01:32:57.941Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:33:14.942Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:33:16.726Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:33:18.430Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:33:43.135Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:34:15.914Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:34:40.668Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:34:40.693Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:34:42.762Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:34:49.497Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:35:04.831Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:35:16.115Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:35:19.551Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:36:25.591Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:36:55.220Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:36:56.121Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:37:10.655Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:37:35.371Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:37:49.687Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:38:17.419Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:38:36.219Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:38:37.092Z"}
+{"userid":100011827,"level":"info","message":"landed on trip page","timestamp":"2016-12-06T01:39:34.418Z"}
+{"userid":100011827,"level":"info","message":"user landed on dashboard","timestamp":"2016-12-06T01:39:37.569Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:40:10.851Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:40:12.186Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:40:13.356Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:40:59.017Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:41:02.144Z"}
+{"userid":100000019,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:41:30.852Z"}
+{"userid":100000019,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:41:30.883Z"}
+{"userid":100000019,"level":"info","message":"user requested to becomehost ","timestamp":"2016-12-06T01:41:34.468Z"}
+{"userid":100000019,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:41:34.486Z"}
+{"userid":100000019,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:41:47.392Z"}
+{"userid":100000016,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:42:27.593Z"}
+{"userid":100000016,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:42:27.636Z"}
+{"userid":100000016,"level":"info","message":"user requested to becomehost ","timestamp":"2016-12-06T01:43:48.371Z"}
+{"userid":100000016,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:43:48.392Z"}
+{"userid":100000016,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:43:53.908Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:44:16.521Z"}
+{"userid":100000016,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:44:30.693Z"}
+{"userid":100000016,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:44:30.722Z"}
+{"userid":100000016,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:45:19.202Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:45:34.145Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:45:34.178Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:45:37.683Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:45:39.486Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:46:10.321Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:46:23.447Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:47:10.492Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:47:28.427Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:47:44.556Z"}
+{"userid":100011827,"level":"info","message":"landed on bid page","timestamp":"2016-12-06T01:47:46.037Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:48:39.204Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:48:50.019Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:48:57.678Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:50:17.471Z"}
+{"userid":100011825,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:51:04.351Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:51:04.379Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:51:07.892Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:51:21.222Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:51:26.188Z"}
+{"userid":100011825,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:51:49.778Z"}
+{"userid":100011825,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:52:18.620Z"}
+{"userid":100011825,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:52:20.767Z"}
+{"userid":100011825,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:52:26.659Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T01:52:55.694Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T01:52:55.724Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T01:52:58.037Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:53:00.362Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T01:53:07.288Z"}
+{"userid":100011827,"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:53:46.933Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:59:01.524Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:59:24.319Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T01:59:32.520Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T02:00:48.591Z"}
+{"userid":100011827,"level":"info","message":"user signed on successfully","timestamp":"2016-12-06T02:01:25.651Z"}
+{"userid":100011827,"level":"info","message":"landed on homepage","timestamp":"2016-12-06T02:01:25.682Z"}
+{"userid":100011827,"level":"info","message":"user landed on search page","timestamp":"2016-12-06T02:01:27.753Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T02:01:35.133Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T02:01:38.920Z"}
+{"level":"info","message":"user signed out of application","timestamp":"2016-12-06T02:05:23.846Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T02:10:45.578Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T02:11:15.126Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T02:11:20.726Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T02:11:24.536Z"}
+{"userid":100011827,"level":"info","message":"landed on property search page","timestamp":"2016-12-06T02:12:37.116Z"}

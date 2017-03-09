@@ -1,0 +1,373 @@
+<html>
+
+	<head>
+		<title>Admin</title>
+		
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+			
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			
+			<link rel='stylesheet' href='/stylesheets/hr.css' />
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+			<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+			<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+			 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+			
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>				
+		
+		
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/bootstrap/3/css/bootstrap.css" />
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
+		<link rel="shortcut icon" sizes="76x76" type="image/x-icon" href="https://a1.muscache.com/airbnb/static/logotype_favicon-21cc8e6c6a2cca43f061d2dcabdf6e58.ico">
+		<link rel="icon" sizes="192x192" href="https://a1.muscache.com/airbnb/static/icons/android-icon-192x192-c0465f9f0380893768972a31a614b670.png">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		
+		<script src="angularjs/admin.js"></script>
+	<style>
+		.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	z-index: 300;
+	background-color: white;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: #3e8e41;
+}
+		</style>	
+	</head>
+	
+	<body ng-app="adminDashboard" ng-controller="adminDashboardController">
+	
+		<div style="z-index: 99; display: block;">
+		<nav class="navbar navbar-default "
+			style="background-color: transparent; background: transparent; border-color: transparent;">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="/home" style="border-right: 1px solid #dce0e0;"> <img src="https://a1.muscache.com/airbnb/static/icons/android-icon-192x192-c0465f9f0380893768972a31a614b670.png" alt="some_text" style="height: 30px; font-weight: normal; font-size: inherit; background-color: transparent; color: inherit; top: -2px; font-family:"HelveticaNeue";font-size: 14px; padding: 4px 12px;"></a>
+				</div>
+				<ul class="nav navbar-nav pull-right" style="font-family: Circular,"HelveticaNeue",Helvetica; top: -2px;font-size: 14px;padding: 4px 12px;"-webkit-font-smoothing:antialiased;">
+					<li class="dropdown"><a href="/adminHome"> <img width="28"
+							height="28" class="img-circle dropbtn" ng-src="{{imageUrl}}"
+							style="border-color: #c4c4c4; border: 2px solid #c4c4c4;">
+					</a>
+
+						<div class="dropdown-content">
+							<label> <a href="/logout">Logout</a>
+							</label>
+						</div></li>
+				</ul>
+			</div>
+		</nav>
+	</div>  
+		
+		
+		
+		<div>		
+			<nav class="navbar navbar-inverse">
+				<div class="container-fluid">
+					<ul class="nav navbar-nav">
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+
+						<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+
+						
+						<li class="active"><a href="/getAdminDashboard">Dashboard</a></li>
+						<li><a href="#">Inbox</a></li>
+						<li><a href="/pendingRequest">Pending Requests</a></li>
+						<li><a href="/displayHostsList">Hosts</a></li>
+						<li><a href="/displayUsersList">Users</a></li>
+						<li><a href="/displayPropertiesList">Properties</a></li>
+						<li><a href="/searchBill">Bills</a></li>
+					</ul>
+
+				</div>
+			</nav>
+ 		</div>
+		
+		
+		<div class="row" > 
+			<div class="row"> 	
+			<div class="col-sm-1"></div>
+			<div class="col-sm-5" align="middle"> 		
+				<div class="row"> 
+				    
+                   <div ng-init="loadPropertyRevenues();" id="donutchart"></div>
+                   <h4><Strong>Revenue Generated from properties</strong></h4>
+                 </div>
+             </div>
+             <div class="col-sm-5" align="middle">
+              <div class="row">
+                    
+                   <div ng-init="loadCityRevenues();" id="citychart" style:"height:500px; width:600px;"></div>
+                    <h4><Strong>Revenue Generated Cities</strong></h4>
+               </div>
+             </div>         
+</div>
+
+<br>
+<br>
+<br> 
+
+    <div class="row">
+                 <div class="col-sm-1"></div>
+                 <div class="col-sm-10" align="middle"> 		
+				      <div class="row"> 
+                   <h4><Strong>Top 10 Hosts with maximum revenue generated </strong> </h4>
+                   <div ng-init="topHostRevenues();" id="hostchart" style:"height:500px; width:600px;"></div>
+                   </div>
+                 </div>
+ </div>                  
+			
+			
+			
+			
+		</div>
+		
+		<script>
+   var app=angular.module('adminDashboard',[]);
+   app.controller('adminDashboardController',function($scope,$http)
+    {
+      console.log("here");
+      $scope.loadPropertyRevenues=function(){
+          $http({
+              method:'get',
+              url:'/getPropertyRevenue'
+               }).success(function(data){
+                  console.log("reached to revenue ");
+                  console.log(data);
+                  console.log(data[0].prop_id);
+                  console.log(data[0].totalRevenue);
+                  drawRevenueChart(data);
+                   
+                 })
+        }
+       $scope.loadCityRevenues=function(){
+         $http({
+                 method:'get',
+                 url:'/getCityRevenue'
+              }).success(function(data){
+                 console.log(data);
+                 drawCityRevenueCharts(data);
+                })
+       
+       
+       
+       } 
+       
+       $scope.topHostRevenues=function(){
+         $http({
+                method:'get',
+                url:'/getTopHostRevenues'
+               }).success(function(data){
+                 console.log(data);
+                 drawHostRevenueChart(data);
+                })
+       
+       }
+       
+       
+    })    
+
+     google.load("visualization", "1.1", {
+        		packages : [ "corechart" ]
+        	});  	  
+        	google.setOnLoadCallback(drawRevenueChart);
+          	function drawRevenueChart(data) {
+        		var chartData = prepareRevenueChartData(data);	
+        		var data = new google.visualization.DataTable();
+        		data.addColumn('string', 'propertyId');
+        		data.addColumn('number', 'TotalRevenueGenerated');
+        		data.addRows(chartData);
+        		
+        		var options = {
+        		
+        				title : 'Revenue generated from top 10 Properties',
+        				
+        		
+        			height: 500,
+        			pieHole: 0.4
+        		};
+
+        		var chart = new google.visualization.PieChart(document
+        				   .getElementById('donutchart'));
+
+        		chart.draw(data, options);
+        	}
+           function prepareRevenueChartData(data){
+              
+                var chartdata=[];
+                var str=[];
+                for(var i=0;i<data.length;i++)
+                {
+                  str[i]=(data[i].prop_id)+'';
+                 }
+                
+                 for(var i=0;i<data.length;i++)
+                    {
+                     var temp=[
+                                str[i],
+                                data[i].totalRevenue
+                               ];
+                                
+                      chartdata.push(temp);
+                    }
+                   return chartdata; 
+                    
+                 
+              
+              }
+              
+     //for city wise revenues chart
+
+     
+              
+google.load("visualization", "1.1", {
+        		packages : [ "corechart" ]
+        	});  	  
+        	google.setOnLoadCallback(drawCityRevenueCharts);
+          	function drawCityRevenueCharts(data) {
+          	   console.log("0ne");
+        		var chartData = prepareCityChartData(data);	
+        		var data = new google.visualization.DataTable();
+        		data.addColumn('string', 'CityName');
+        		data.addColumn('number', 'TotalRevenueGenerated');
+        		data.addRows(chartData);
+        		
+        		var options = {
+        			
+        				title : 'total revenue generated from each city',
+        				
+        			
+        			height: 500,
+        			pieHole: 0.3
+        		};
+
+        		var chart = new google.visualization.PieChart(document
+        				   .getElementById('citychart'));
+
+        		chart.draw(data, options);
+        	}
+           function prepareCityChartData(data){
+              console.log("here");
+                var chartdata=[];
+                var str=[];
+                for(var i=0;i<data.length;i++)
+                {
+                  str[i]=(data[i].prop_id)+'';
+                 }
+                
+                 for(var i=0;i<data.length;i++)
+                    {
+                     var temp=[
+                                data[i].city,
+                                data[i].Revenue
+                               ];
+                                
+                      chartdata.push(temp);
+                    }
+                   return chartdata; 
+                    
+                 
+              
+              }
+              
+          //drawing host revenues chart
+          
+         
+                     
+google.load("visualization", "1.1", {
+        		packages : ['corechart','bar']
+        	});  	  
+        	google.setOnLoadCallback(drawHostRevenueChart);
+          	function drawHostRevenueChart(data) {
+          	   console.log("one");
+        		var chartData = preparehostChartData(data);	
+        		var data = new google.visualization.DataTable();
+        		data.addColumn('string', 'host_id');
+        		data.addColumn('number','CountOfPropertiesSold');
+        		data.addColumn('number', 'TotalRevenueGenerated');
+        		
+        		data.addRows(chartData);
+        		
+        		var options = {
+        			chart : {	
+        				title : 'Host_Id and revenue Generated',
+        				
+        			},
+        			colors:['#182944','#767f8e','red','#443c18'],
+        			
+        			
+        		};
+
+        		var chart = new google.visualization.ColumnChart(document
+        				   .getElementById('hostchart'));
+
+        		chart.draw(data, options);
+        	}
+           function preparehostChartData(data){
+              console.log("here");
+                var chartdata=[];
+                var str=[];
+                for(var i=0;i<data.length;i++)
+                {
+                  str[i]=(data[i].host_id)+'';
+                 }
+                
+                 for(var i=0;i<data.length;i++)
+                    {
+                     var temp=[
+                                 str[i],
+                                data[i].propertyCount,
+                                data[i].Total_RevenueGenerated
+                               ];
+                                
+                      chartdata.push(temp);
+                    }
+                   return chartdata; 
+                
+              }      
+              
+              
+              
+     
+  
+</script>
+		 
+	</body>
+
+</html>
