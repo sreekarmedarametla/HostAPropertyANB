@@ -1364,6 +1364,7 @@ function decrypt(text) {
 	return dec;
 }
 
+//added uploading photo for admin
 exports.updatePhoto = function(req, res) {
 	console.log("session id checking"+req.session.admin_id);
 	var puidData = {};
