@@ -19,7 +19,7 @@ exports.makeOffer = function(req, res) {
 	logger.info('landed on bid page',{userid:req.session.user_id});
 
 	var bid_amt = req.param("bid_amt");
-	console.log(bid_amt);
+	console.log("bid amount is"+bid_amt);
 	var property = req.param("property");
 	var no_of_guests = req.param("no_of_guests");
 	var check_out = req.param("check_out");
